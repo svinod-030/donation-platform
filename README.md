@@ -16,3 +16,7 @@ Benefits of a **community based donation platform**.
   * Enhanced community engagement: Fosters a sense of ownership, empowers community members, and ensures that initiatives are tailored to the specific needs and preferences of the communities they serve.
   * Improved decision-making: More responsive and context-specific decisions, as those closer to the ground often have a better understanding of local needs and dynamics.
   * Flexibility and Adaptability: Adaptable to changing circumstances and local contexts, and respond quickly to emerging needs.
+
+## Solution:
+
+![image](https://github.com/svinod-030/donation-platform/assets/36790004/3de63ad8-fd1b-497e-a291-d5ff0078dae1)
