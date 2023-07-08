@@ -25,4 +25,4 @@ Benefits of a **community based donation platform**.
 ### High-level Tech Design:
 ![image](https://github.com/svinod-030/donation-platform/assets/36790004/18142102-e79b-4d24-b200-4200a7f24677)
 
-Ref: excalidraw file 
+Ref: excalidraw file ![file](./donation-platform-tech-2022-04-07-1711.excalidraw)
