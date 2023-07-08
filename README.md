@@ -18,5 +18,11 @@ Benefits of a **community based donation platform**.
   * Flexibility and Adaptability: Adaptable to changing circumstances and local contexts, and respond quickly to emerging needs.
 
 ## Solution:
+### High-Level-Flow:
 
 ![image](https://github.com/svinod-030/donation-platform/assets/36790004/3de63ad8-fd1b-497e-a291-d5ff0078dae1)
+
+### High-level Tech Design:
+![image](https://github.com/svinod-030/donation-platform/assets/36790004/18142102-e79b-4d24-b200-4200a7f24677)
+
+Ref: excalidraw file 
