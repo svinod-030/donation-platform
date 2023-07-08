@@ -1,7 +1,7 @@
 # Donation Platform
 
 ## Agenda: 
-To provide support to the needy in terms of goods, food or financial aspects.
+Provide a platform where people can donate or receive resources using **donor-recipient model**.
 
 ## Context:
 In the nonprofit sector, non-profits should prioritize establishing strong relationships with donors and ensuring that the resources received are used effectively to fulfill the organization's mission and make a meaningful difference in the community. In this case, there is a lack of transparency on how the resources received are used effectively. And it is difficult to keep the accountability and trust of donors. 
