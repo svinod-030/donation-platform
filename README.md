@@ -19,8 +19,10 @@ Benefits of a **community based donation platform**.
 
 ## Solution:
 ### High-Level-Flow:
-
 ![image](https://github.com/svinod-030/donation-platform/assets/36790004/3de63ad8-fd1b-497e-a291-d5ff0078dae1)
+
+### User flows:
+![image](https://github.com/svinod-030/donation-platform/assets/36790004/096708ee-9f96-489b-8c75-8dd55ad5a52c)
 
 ### High-level Tech Design:
 ![image](https://github.com/svinod-030/donation-platform/assets/36790004/18142102-e79b-4d24-b200-4200a7f24677)
